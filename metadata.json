@@ -1,4 +1,5 @@
 {
-  "name": "Copy of Gemini Chat Interface",
-  "description": "A sleek, ChatGPT-like web interface for interacting with a conversational AI. This application provides a seamless chat experience, allowing users to engage in continuous dialogues, manage multiple conversations, and switch between English and Chinese interfaces. It's built with React and Tailwind CSS, using the Gemini API to power the chat backend."
+  "name": "Gemini Chat Interface (Streamlit)",
+  "description": "A sleek, ChatGPT-like web interface for interacting with a conversational AI. This application provides a seamless chat experience, allowing users to engage in continuous dialogues and manage conversations. It's built with Python and Streamlit, using the Gemini API to power the chat backend.",
+  "requestFramePermissions": []
 }
